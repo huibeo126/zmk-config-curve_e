@@ -1,0 +1,13 @@
+file_format: "1"
+id: curve_e
+name: Curve E Board
+type: board
+arch: arm
+features:
+  - keys
+  - display
+  - underglow
+outputs:
+  - usb
+  - ble
+url: none
